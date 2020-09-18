@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chessboardmaster/static/css/main.70b3a6b0.chunk.css",
+    "main.js": "/chessboardmaster/static/js/main.b26194ce.chunk.js",
+    "main.js.map": "/chessboardmaster/static/js/main.b26194ce.chunk.js.map",
+    "runtime-main.js": "/chessboardmaster/static/js/runtime-main.fbe78e2e.js",
+    "runtime-main.js.map": "/chessboardmaster/static/js/runtime-main.fbe78e2e.js.map",
+    "static/js/2.4efc8be7.chunk.js": "/chessboardmaster/static/js/2.4efc8be7.chunk.js",
+    "static/js/2.4efc8be7.chunk.js.map": "/chessboardmaster/static/js/2.4efc8be7.chunk.js.map",
+    "index.html": "/chessboardmaster/index.html",
+    "precache-manifest.d7b355b13e0d333935e3d5f1e2c79422.js": "/chessboardmaster/precache-manifest.d7b355b13e0d333935e3d5f1e2c79422.js",
+    "service-worker.js": "/chessboardmaster/service-worker.js",
+    "static/css/main.70b3a6b0.chunk.css.map": "/chessboardmaster/static/css/main.70b3a6b0.chunk.css.map",
+    "static/js/2.4efc8be7.chunk.js.LICENSE.txt": "/chessboardmaster/static/js/2.4efc8be7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbe78e2e.js",
+    "static/js/2.4efc8be7.chunk.js",
+    "static/css/main.70b3a6b0.chunk.css",
+    "static/js/main.b26194ce.chunk.js"
+  ]
+}
