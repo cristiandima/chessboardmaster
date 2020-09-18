@@ -188,10 +188,6 @@ class GameBoard extends React.Component {
       ctx.fillStyle = color;
       for (let j = 0; j < 8; j++) {
         ctx.fillRect(j * 80, i * 80, 80, 80);
-        if (j == this.props.target.x && i == this.props.target.y) {
-          ctx.fillStyle = SQUARE.OK;
-          ctx.fillRect(j * 80, i * 80, 80, 80);
-        }
         color = color === SQUARE.WHITE ? SQUARE.BLACK : SQUARE.WHITE;
         ctx.fillStyle = color;
       }
